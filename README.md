@@ -1,1 +1,1 @@
-[Demo](https://gobacktosleep.github.io/test-repo2/audio-player/)
+[Demo](https://gobacktosleep.github.io/Audio-player/audio-player/)
